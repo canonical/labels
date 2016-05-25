@@ -14,17 +14,17 @@
   { "name": "Review: Code -1", "color": "#df382c" },
   { "name": "Review: QA -1", "color": "#df382c" },
 
-  { "name": "Status: Blocked", "color": "#df382c" },
-  { "name": "Status: Duplicate", "color": "#000000" },
-  { "name": "Status: In progress", "color": "#cccccc" },
-  { "name": "Status: Invalid", "color": "#000000" },
+  { "name": "Status: Blocked", "color": "#888888" },
+  { "name": "Status: Duplicate", "color": "#888888" },
+  { "name": "Status: In progress", "color": "#888888" },
+  { "name": "Status: Invalid", "color": "#888888" },
   { "name": "Status: More info needed", "color": "#888888" },
-  { "name": "Status: Review", "color": "#fbca04" },
-  { "name": "Status: Triaged", "color": "#bfe5bf" },
-  { "name": "Status: Won't fix", "color": "#000000" },
+  { "name": "Status: Review", "color": "#888888" },
+  { "name": "Status: Triaged", "color": "#888888" },
+  { "name": "Status: Won't fix", "color": "#888888" },
 
-  { "name": "Type: Bug", "color": "#df382c" },
-  { "name": "Type: Maintenance", "color": "#fbca04" },
-  { "name": "Type: Enhancement", "color": "#84b6eb" },
-  { "name": "Type: Question", "color": "#cc317c" }
+  { "name": "Type: Bug", "color": "#333333" },
+  { "name": "Type: Maintenance", "color": "#333333" },
+  { "name": "Type: Enhancement", "color": "#333333" },
+  { "name": "Type: Question", "color": "#333333" }
 ]
