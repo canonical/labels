@@ -1,22 +1,14 @@
 # Ubuntu GitHub labels
 
 ## Usage
-Add labels using either:
-### github-labels
-https://github.com/popomore/github-labels
-```
-$ npm install github-labels -g
-```
-```
-$ labels -c labels.json user/repo
-```
 
-### git-labelmaker
-https://github.com/himynameisdave/git-labelmaker
+1. first remove all labels in the repo, as any dups are ignored
+2. install [git-lablemaker](https://github.com/himynameisdave/git-labelmaker) (see below)
 ```
 $ npm install git-labelmaker -g
 ```
+3. in a terminal, go to the repo you want to add labels and run git-labelmaker
 ```
 $ git-labelmaker
 ```
-Follow the instructions to enter an oauth token, and `Add Labels From a Package`. Point the package to labels.json in this repository.
+4. For the first time you use the app, you will need to follow the instructions to enter an oauth token, and `Add Labels From a Package`. Point the package to labels.json in this repository.
