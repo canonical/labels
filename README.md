@@ -11,4 +11,8 @@ $ npm install git-labelmaker -g
 ```
 $ git-labelmaker
 ```
-4. For the first time you use the app, you will need to follow the instructions to enter an oauth token, and `Add Labels From a Package`. Point the package to labels.json in this repository.
+4. For the first time you use the app, you will need to follow the instructions to enter an oauth token, and `Add Labels From a Package`. Point the package to labels.json in this repository (e.g. `../labels/labels.json`) 
+
+## Notes
+
+* be sure to git clone with the ssh version, not https or it will not work!
