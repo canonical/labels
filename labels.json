@@ -7,18 +7,15 @@
   { "name": "Review: Design needed", "color": "#cdcdcd" },
   { "name": "Review: Code needed", "color": "#cdcdcd" },
   { "name": "Review: QA needed", "color": "#cdcdcd" },
+  { "name": "Review: UX needed", "color": "#cdcdcd" },
   { "name": "Review: Design +1", "color": "#38b44a" },
   { "name": "Review: Code +1", "color": "#38b44a" },
   { "name": "Review: QA +1", "color": "#38b44a" },
+  { "name": "Review: UX +1", "color": "#38b44a" },
   { "name": "Review: Design -1", "color": "#df382c" },
   { "name": "Review: Code -1", "color": "#df382c" },
   { "name": "Review: QA -1", "color": "#df382c" },
-
-  { "name": "Status: Blocked", "color": "#888888" },
-  { "name": "Status: Doing", "color": "#888888" },
-  { "name": "Status: Review", "color": "#888888" },
-  { "name": "Status: Triaged", "color": "#888888" },
-
+  { "name": "Review: UX -1", "color": "#df382c" },
 
   { "name": "Type: Bug", "color": "#333333" },
   { "name": "Type: Maintenance", "color": "#333333" },
@@ -26,6 +23,7 @@
   { "name": "Type: Question", "color": "#333333" },
 
   { "name": "Don't merge", "color": "#df382c" },
+  { "name": "Blocked", "color": "#df382c" },
   { "name": "Duplicate", "color": "#c5def5" },
   { "name": "Invalid", "color": "#c5def5" },
   { "name": "Won't fix", "color": "#c5def5" }
