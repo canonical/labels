@@ -23,8 +23,8 @@
   { "name": "Type: Enhancement", "color": "#333333" },
   { "name": "Type: Question", "color": "#333333" },
 
-  { "name": "Don't merge", "color": "#df382c" },
+  { "name": "Dont merge", "color": "#df382c" },
   { "name": "Duplicate", "color": "#c5def5" },
   { "name": "Invalid", "color": "#c5def5" },
-  { "name": "Won't fix", "color": "#c5def5" }
+  { "name": "Wont fix", "color": "#c5def5" }
 ]
