@@ -17,11 +17,9 @@
   { "name": "Review: QA -1", "color": "#df382c" },
   { "name": "Review: UX -1", "color": "#df382c" },
 
-  { "name": "Type: Bug", "color": "#333333" },
-  { "name": "Type: Maintenance", "color": "#333333" },
-  { "name": "Type: Enhancement", "color": "#333333" },
-  { "name": "Type: Question", "color": "#333333" },
-
+  { "name": "Question", "color": "#333333" },
+  { "name": "Good first issue", "color": "#8169CE" },
+  { "name": "Help wanted", "color": "#BEC2F7" },
   { "name": "Dont merge", "color": "#df382c" },
   { "name": "Blocked", "color": "#df382c" },
   { "name": "Duplicate", "color": "#c5def5" },
