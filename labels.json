@@ -24,5 +24,7 @@
   { "name": "Blocked", "color": "#df382c" },
   { "name": "Duplicate", "color": "#c5def5" },
   { "name": "Invalid", "color": "#c5def5" },
-  { "name": "Wont fix", "color": "#c5def5" }
+  { "name": "Wont fix", "color": "#c5def5" },
+  
+  { "name": "Project Fuse ⚡️", "color": "#d96ae8" }
 ]
