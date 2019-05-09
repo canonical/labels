@@ -26,5 +26,6 @@
   { "name": "Invalid", "color": "#c5def5" },
   { "name": "Wont fix", "color": "#c5def5" },
   
-  { "name": "Project Fuse ⚡️", "color": "#d96ae8" }
+  { "name": "Project Fuse ⚡️", "color": "#d96ae8" },
+  { "name": "Released ✈️", "color": "#7f33b2" }
 ]
