@@ -25,6 +25,8 @@
   { "name": "Duplicate", "color": "#c5def5" },
   { "name": "Invalid", "color": "#c5def5" },
   { "name": "Wont fix", "color": "#c5def5" },
+  { "name": "Master Epic", "color": "#f9e636"},
+
   
   { "name": "Project Fuse ⚡️", "color": "#d96ae8" },
   { "name": "Released ✈️", "color": "#7f33b2" }
