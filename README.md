@@ -1,4 +1,5 @@
 # Ubuntu GitHub labels
+[![CircleCI build status](https://circleci.com/gh/canonical-web-and-design/labels.svg?style=shield)](https://circleci.com/gh/canonical-web-and-design/labels) [![Code coverage](https://codecov.io/gh/canonical-web-and-design/labels/branch/master/graph/badge.svg)](https://codecov.io/gh/canonical-web-and-design/labels)
 
 ## Usage
 
