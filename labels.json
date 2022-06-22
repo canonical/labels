@@ -18,7 +18,7 @@
   { "name": "Review: Code -1", "color": "#c7162b" },
   { "name": "Review: QA -1", "color": "#c7162b" },
   { "name": "Review: UX -1", "color": "#c7162b" },
-  { "name": "Review: Ally -1", "color": "#c7162b" },
+  { "name": "Review: A11y -1", "color": "#c7162b" },
 
   { "name": "Question", "color": "#333333" },
   { "name": "Good first issue", "color": "#8169CE" },
