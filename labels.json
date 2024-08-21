@@ -29,6 +29,7 @@
   { "name": "Invalid", "color": "#c5def5" },
   { "name": "Wont fix", "color": "#c5def5" },
   { "name": "Master Epic", "color": "#f9e636"},
+  { "name": "Triaged", "color": "#4A3728"},
 
   
   { "name": "Project Fuse ⚡️", "color": "#d96ae8" },
